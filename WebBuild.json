@@ -1,0 +1,13 @@
+{
+"companyName": "Angela He",
+"productName": "Wholesome Cats",
+"dataUrl": "https://images-docs-opensocial.googleusercontent.com/gadgets/proxy?container=fbk&url=https://html-classic.itch.zone/html/1071128/WebBuild/Build/WebBuild.data.unityweb",
+"wasmCodeUrl": "https://images-docs-opensocial.googleusercontent.com/gadgets/proxy?container=fbk&url=https://html-classic.itch.zone/html/1071128/WebBuild/Build/WebBuild.wasm.code.unityweb",
+"wasmFrameworkUrl": "https://images-docs-opensocial.googleusercontent.com/gadgets/proxy?container=fbk&url=https://html-classic.itch.zone/html/1071128/WebBuild/Build/WebBuild.wasm.framework.unityweb",
+"TOTAL_MEMORY": 134217728,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "WebBuild.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
